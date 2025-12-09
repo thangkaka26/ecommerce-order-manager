@@ -7,7 +7,7 @@ This is the end-of-term project for 'Introduction to Databases' course.
 ## Team members (Roles are equal, no leader):
 1. Nguyen Dinh Thang
 2. Bui Tuan Anh
-3. Pham Quang Vu
+3. Pham Quang Vu\n
 All members are from Faculty of Data Science and Artificial Intelligence, National Economics University, Vietnam.
 
 -------
