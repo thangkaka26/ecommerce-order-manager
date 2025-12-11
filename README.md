@@ -14,7 +14,8 @@ https://fda.neu.edu.vn/fda-members/ts-tran-hung/
 2. Bui Tuan Anh
 3. Pham Quang Vu
 
-All members are students of Faculty of Data Science and Artificial Intelligence, National Economics University, Vietnam.
+All members are majoring in Artificial Intelligence of Faculty of Data Science and Artificial Intelligence, National Economics University, Vietnam.\
+https://fda.neu.edu.vn/nganh-tri-tue-nhan-tao/
 
 -------
 
