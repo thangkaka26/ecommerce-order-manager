@@ -26,6 +26,7 @@ This project's primary purpose is creating a GUI interacting with mySQL database
 
 ## How to use:
 Download the folder 'app/'.
+
 Before you launch:
 - Require MySQL Server and Workbench 8.0+.
 - Install all Python libraries listed in 'tests/requirements.txt' using pip.
